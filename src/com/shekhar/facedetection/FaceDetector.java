@@ -1,4 +1,4 @@
-package com.shekhar.facedetection;
+package com.shawon.facedetection;
 
 import org.opencv.core.Core;
 import org.opencv.core.Mat;
